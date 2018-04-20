@@ -1,0 +1,11 @@
+Total number of <img> tag : 3 ==> 2 of them with attribute : alt.
+Total number of <a> tag : 0 ==> 0 of them with attribute : rel.
+In <head>, there are 1 child tag <title>.
+In <head>, there are 1 child tag <meta> with attribute-value : name="descriptions".
+In <head>, there are 0 child tag <meta> with attribute-value : name="keywords".
+In this HTML, there are 0 (less than 15) <strong>.
+In this HTML, there are 0 (less than 1) <h1>.
+Total number of <link> tag : 0 ==> 0 of them with attribute : href.
+In <head>, there are 0 child tag <base>.
+In <head>, there are 0 child tag <meta> with attribute-value : name="viewport".
+In this HTML, there are 2 (more than or equal to 1) <h2>.
