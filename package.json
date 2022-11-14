@@ -9,7 +9,7 @@
   "author": "Kilik Kuo",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-jshint": "^2.1.0",
     "gulp-rename": "^1.2.2",
